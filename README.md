@@ -1,0 +1,2 @@
+# Software-Project-1-Online-Event-Management
+our software or Web Application is intended for implementing an Online Event Management system so that a customer can easily access to our service from anywhere, anytime. The project will provide most of the basic functionality required for an event. It will allow the user to select from a list of event types. Once the user enters an event type (Marriage, Birthday, etc), the system will display some packages to choose for the event.  Benefits or Improvements of Proposed System
